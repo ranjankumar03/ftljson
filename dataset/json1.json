@@ -1,0 +1,45 @@
+{
+  "_id": "595a35009085d895e84a7fbf",
+  "index": 0,
+  "guid": "d0022abf-5005-4dfe-99b3-b5ba6337ec3e",
+  "isActive": true,
+  "balance": "$3,736.39",
+  "picture": "http://placehold.it/32x32",
+  "age": 22,
+  "eyeColor": "blue",
+  "name": "Sears Sexton",
+  "gender": "male",
+  "company": "ENERSAVE",
+  "email": "searssexton@enersave.com",
+  "phone": "+1 (853) 413-3635",
+  "address": "464 Lott Place, Wyano, Nebraska, 3794",
+  "about": "Fugiat non aute labore duis commodo ut commodo. Cillum ullamco duis ex ea magna non elit tempor. Commodo quis in aliquip ullamco consequat reprehenderit aliqua veniam velit. Do ipsum eiusmod non aliqua quis. Laborum dolore minim ea et ipsum laboris dolore incididunt sunt sit cupidatat pariatur eiusmod. Elit id id velit ipsum. Nulla do quis ut ut tempor incididunt culpa deserunt mollit proident non duis.\r\n",
+  "registered": "2014-07-24T10:22:01 -02:00",
+  "latitude": -35.992576,
+  "longitude": -172.081472,
+  "tags": [
+    "id",
+    "Lorem",
+    "consequat",
+    "quis",
+    "proident",
+    "anim",
+    "officia"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Le Eaton"
+    },
+    {
+      "id": 1,
+      "name": "Bradley Fischer"
+    },
+    {
+      "id": 2,
+      "name": "Nelson Hurley"
+    }
+  ],
+  "greeting": "Hello, Sears Sexton! You have 10 unread messages.",
+  "favoriteFruit": "banana"
+}

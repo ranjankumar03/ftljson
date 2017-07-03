@@ -1,0 +1,16 @@
+/.settings/
+/.gradle/
+/build/
+/dist/
+/nbproject/
+/target/
+/bin/
+/.idea/
+/out/
+/.classpath
+/.project
+/*.iml
+/vim.exe.stackdump
+/native/*.dll
+/native/*.exp
+/native/*.lib
